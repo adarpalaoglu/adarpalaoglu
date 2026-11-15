@@ -15,4 +15,4 @@ My projects work like small consulting studies. I write a prediction before I me
 
 Python · FastAPI · PostgreSQL · Docker · GitHub Actions · pytest · Ollama · LLM APIs
 
-📍 Ankara, Türkiye · 🇹🇷 / 🇬🇧
+📍 Ankara, Türkiye · 🇹🇷 / 🇬🇧 · [LinkedIn](https://www.linkedin.com/in/adar-palaoglu/)
